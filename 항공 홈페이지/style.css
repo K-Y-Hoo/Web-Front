@@ -1,0 +1,178 @@
+* {
+    box-sizing: border-box;
+}
+  
+body {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+#header {
+    background-color: #11172b;
+    
+}
+.content {
+    width: 640px;
+    margin: 0 auto;
+}
+#header-content {
+    line-height: 24px;
+    padding-top:12px;
+    padding-bottom:12px;
+}
+#logo {
+    height:24px;
+    padding-right: 15px;
+}
+#first {
+    display: inline-block;
+    color: #ffffff;
+    font-weight:600;
+    font-size:24px;
+    
+}
+#second {
+    display: inline-block;
+    color: #ffffff;
+    font-weight: 300;
+    font-size:24px;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+#middle {
+    background-color: #f8f8f8;
+    padding-bottom: 20px;
+    
+}
+
+#middle-content {
+    padding-top:40px;
+    padding-bottom:0;
+}
+
+#main {
+    border-radius: 8px;
+    background-color: #ebeff8;
+
+
+}
+
+#dotted {
+    padding-top:20px;
+    border-bottom: 2px dotted #b6bfd3;
+}
+
+#ticket {
+    margin-top:20px;
+    border-radius: 8px;
+    background-color: #ffffff;
+}
+
+.dep {
+    display: inline-block;
+    line-height:12px;
+    padding-top:24px;
+    padding-bottom:8px;
+    font-size:16px;
+    color:#b3bdd5;
+    
+    
+}
+#depid {
+    margin-left:32px;
+}
+
+#h1 {
+    font-size:32px;
+    font-family: 'Titillium Web';
+    color: #000000;
+    margin-top:0;
+    margin-left:32px;
+    margin-right:32px;
+    margin-bottom:24px;
+}
+
+#main-little-box {
+    background-color: #ffffff;
+    border-radius:4px;
+    font-size:16px;
+    color:#000000;
+    margin-top:0;
+    margin-left:32px;
+    margin-right:32px;
+    margin-bottom:16px;
+    padding:8px 24px;
+    width: 212px;
+}
+
+#description {
+    margin-top:0;
+    margin-left:32px;
+    margin-right:32px;
+    margin-bottom:24px;
+    color: #b3bdd5;
+    font-size: 12px;
+    display: inline-block;
+}
+
+.air-ticket {
+    border-bottom: 1px solid #dbf1ec;
+    font-size: 12px;
+    font-weight: 700;
+    font-family: 'Titillium Web';
+    color: #16bf97;
+    padding-top:8px;
+    padding-left:24px;
+    padding-bottom:8px;
+}
+
+.dep-ari {
+    font-size: 12px;
+    font-weight: 500;
+    color: #b3bdd5;
+    margin: 0 0;
+    padding-top: 26px;
+    padding-left: 24px;
+    padding-bottom: 4px;
+}
+
+.time {
+    margin: 0 0;
+    padding-left:24px;
+    padding-bottom:4px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #1a345e;
+}
+
+.airplane-img {
+    margin: 0 10px;
+    width: 18px;
+    
+}
+
+#list {
+    padding-top:0;
+}
+
+#num {
+    padding-top:0;
+    font-size: 16px;
+    color: #0b1f66;
+}
+
+.button {
+    text-align: right;
+    padding-bottom: 24px;
+    font-size:14px;
+    font-weight: 500;
+    color: #1a345e;
+}
+
+.abutton {
+    margin-right:24px;
+    
+}
+
+#soldout {
+    color:#dce0e8;
+}
